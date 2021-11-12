@@ -1,0 +1,28 @@
+main{
+    width:80%;
+    margin:auto;
+}
+
+hl{
+   text-align: center;
+}
+
+Video{
+    width:100%;
+}
+contenedor-video{
+    position: relative;
+    overflow: hidden;
+    padding-top: 56.25%;
+}
+
+contenedor-video iframe{
+
+    position: absolute;
+    top:0%;
+    left:0%;;
+    width:100%;
+    Height:100%;
+
+
+}
